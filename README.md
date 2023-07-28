@@ -42,6 +42,7 @@ To create the solid model from given drawing and section the solid model
 ![image](https://user-images.githubusercontent.com/113594316/199409656-c021c100-857a-4ae4-9752-9ae59465c9c2.png)
 
 ## OUTPUT:
+![Sanjana exp 4 2 Drawing v2_page-0001](https://github.com/23008112/EX-No.4.2.-CUT-SECTION-OF-SOLIDS/assets/138972470/0d440779-9237-45f9-91e4-5a7950cb9b81)
 
 ## RESULT:
 Thus, the cut section for solid model is created.
